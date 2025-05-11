@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: Sanush-BR/CD-Challenge_02/.github/workflows/python-app.yml@main
+    uses: Sanush-BR/CD_Challenge_02/.github/workflows/python-app.yml@main
     permissions:
       contents: read
       
